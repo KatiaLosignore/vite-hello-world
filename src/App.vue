@@ -20,7 +20,5 @@ import AppTitle from './components/AppTitle.vue';
 
 
 <style>
-p {
-  color: red;
-}
+
 </style>
